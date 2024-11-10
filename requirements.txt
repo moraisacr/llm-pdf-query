@@ -1,0 +1,5 @@
+PyPDF2
+transformers
+sentence-transformers
+faiss-cpu
+gradio
